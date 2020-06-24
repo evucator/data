@@ -1,6 +1,10 @@
-
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
-}
+  "posts": [
+    {
+      "name": "testname",
+      "adress": "testadresse",
+      "email": "testbrief",
+      "rating": "testbewertung"
+    }
+  ],
+  }
