@@ -5,6 +5,7 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "adress": "testadress"
   }
 }
