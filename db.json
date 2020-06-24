@@ -1,3 +1,4 @@
+{
   "posts": [
     {
       "name": "testname",
@@ -6,4 +7,4 @@
       "rating": "testbewertung"
     }
   ],
- 
+}
