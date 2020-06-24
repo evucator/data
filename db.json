@@ -1,10 +1,11 @@
 {
   "posts": [
     {
-      "name": "testname",
-      "adress": "testadresse",
-      "email": "testbrief",
-      "rating": "testbewertung"
+      "id": 1,
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
