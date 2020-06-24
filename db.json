@@ -1,5 +1,6 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+    "name": "testname",
+    "adress": "testadress",
+    "email": "testemail",
+    "rating": "4"
 }
